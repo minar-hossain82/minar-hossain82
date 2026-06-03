@@ -14,4 +14,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minar-hossain82&show_icons=true&locale=en&theme=tokyonight" alt="minar-hossain82" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minar-hossain82&theme=tokyonight" alt="minar-hossain82" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=minar-hossain82&theme=tokyonight" alt="minar-hossain82" /></p>
