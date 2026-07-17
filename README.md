@@ -9,4 +9,3 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minar-hossain82&layout=compact&theme=dark)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=minar-hossain82&theme=dark)
