@@ -7,4 +7,4 @@
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=minar-hossain82&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=minar-hossain82&layout=compact&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=minar-hossain82&theme=dark)
