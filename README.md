@@ -8,5 +8,8 @@
 ![](https://github-readme-stats.shion.dev/api?username=minar-hossain82&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=minar-hossain82&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=minar-hossain82&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=minar-hossain82&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
