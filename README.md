@@ -11,5 +11,5 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=minar-hossain82&theme=dark&background=151515&ring=79ff97&fire=79ff97&currStreakLabel=79ff97&sideLabels=ffffff&dates=ffffff" />
+  <img src="https://streak-stats.demolab.com?user=minar-hossain82&theme=dark&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&v=2" />
 </div>
