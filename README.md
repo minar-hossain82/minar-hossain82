@@ -7,15 +7,9 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=minar-hossain82&show_icons=true&theme=dark" height="170" />
-
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=minar-hossain82&layout=compact&theme=dark" height="170" />
-
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=minar-hossain82&show_icons=true&theme=dark" />
 </div>
 
 <div align="center">
-
-  <img src="https://streak-stats.demolab.com?user=minar-hossain82&v=2" />
-
+  <img src="https://streak-stats.demolab.com?user=minar-hossain82&theme=dark&background=151515&ring=79ff97&fire=79ff97&currStreakLabel=79ff97&sideLabels=ffffff&dates=ffffff" />
 </div>
