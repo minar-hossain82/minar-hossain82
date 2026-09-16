@@ -7,9 +7,5 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=minar-hossain82&show_icons=true&theme=dark" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=minar-hossain82&theme=dark&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&v=2" />
 </div>
