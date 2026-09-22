@@ -11,7 +11,7 @@
   <img src="https://streak-stats.demolab.com?user=minar-hossain82&theme=dark&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&v=2" />
 </div>
 
-# 🐍 Contribution Snake:
+# 📊 Contribution Snake
 
 <div align="center">
   <picture>
